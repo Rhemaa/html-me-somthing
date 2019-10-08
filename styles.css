@@ -6,6 +6,9 @@ p {
   body {
     background-color: #c4f0ca;
    }
-img {
-    display: 
-}   
+h3.section {
+    font: 22px cambria, sans-serif
+  } 
+ #maintitle {
+    color: #4c1db9
+ } 
